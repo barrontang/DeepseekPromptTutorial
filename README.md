@@ -49,8 +49,11 @@ Note: This tutorial uses ollama Deepseek-r1:latest. You can download Deepseek-r1
 
 - **Lesson 13:** Chinese-English translation expert
 
-## How to use
+## How to use (tested with vsc)
 You can try all lessons on Jupyter Notebook or you just access deepseek website and try them.
+  1.run command in notebook:  !pip install ollama
+  2. run "ollama serve" on  vsc Terminal
+  3. run all Lesson codes
 
 ## Contact
 If you have any questions, please raise an issue or contact us at barron.tang@gmail.com.
